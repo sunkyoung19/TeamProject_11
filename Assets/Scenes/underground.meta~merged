@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 124c272a06a69424bb464739ef594405
+=======
 <<<<<<< Updated upstream:Assets/Scenes/Sky/SimpleCloudSystem by RM.meta
 guid: 4624b716543af924d8955767c01699c2
 =======
 guid: 124c272a06a69424bb464739ef594405
 >>>>>>> Stashed changes:Assets/Scenes/underground.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
