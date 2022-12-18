@@ -2985,6 +2985,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> parent of f0c095a (add wind & anim & struct)
+>>>>>>> parent of f0c095a (add wind & anim & struct)
 --- !u!1 &443288183
 GameObject:
   m_ObjectHideFlags: 0
