@@ -3727,7 +3727,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3724231079898120753, guid: 9f7bdcb1db47b1341b1cb4040f4e6b0b, type: 3}
       propertyPath: m_Name
-      value: New Prefab
+      value: Genie
       objectReference: {fileID: 0}
     - target: {fileID: 7396578779320137579, guid: 9f7bdcb1db47b1341b1cb4040f4e6b0b, type: 3}
       propertyPath: m_RootOrder
