@@ -403,7 +403,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 1cfa7224dc85b5e42afab0edd3b854b5, type: 2}
     - target: {fileID: 919132149155446097, guid: df7d94b0d2d10244e98399be22909478, type: 3}
       propertyPath: m_Name
-      value: Venus_de_Milo
+      value: Venus 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df7d94b0d2d10244e98399be22909478, type: 3}
@@ -5426,7 +5426,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 49ff697c1db4ec14ea993ac9406a0658, type: 2}
     - target: {fileID: 919132149155446097, guid: df7d94b0d2d10244e98399be22909478, type: 3}
       propertyPath: m_Name
-      value: Venus_de_Milo (2)
+      value: Venus 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df7d94b0d2d10244e98399be22909478, type: 3}
@@ -5990,7 +5990,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9c3fb2ae5c9184d489671fc11bdc96b8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 571.8
+      value: 571.1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9c3fb2ae5c9184d489671fc11bdc96b8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5998,7 +5998,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9c3fb2ae5c9184d489671fc11bdc96b8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 626.3
+      value: 626.6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9c3fb2ae5c9184d489671fc11bdc96b8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6670,7 +6670,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 80dc476e56a1a1043a321be94ca89f08, type: 2}
     - target: {fileID: 919132149155446097, guid: df7d94b0d2d10244e98399be22909478, type: 3}
       propertyPath: m_Name
-      value: Venus_de_Milo (1)
+      value: Venus 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df7d94b0d2d10244e98399be22909478, type: 3}
