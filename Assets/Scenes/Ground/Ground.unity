@@ -2938,6 +2938,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &440494092
 GameObject:
   m_ObjectHideFlags: 0
@@ -2982,6 +2983,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of f0c095a (add wind & anim & struct)
 --- !u!1 &443288183
 GameObject:
   m_ObjectHideFlags: 0
